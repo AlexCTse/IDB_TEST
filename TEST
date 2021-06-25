@@ -1,6 +1,21 @@
-Source      |  Target     |  Location           |  Allegiance
-------------|-------------|---------------------|-----------------
-Mance       |  Rayder     |  North of the Wall  |  Wildlings
-Margaery    |  Tyrell     |  The Reach          |  House Tyrell
-Danerys     |  Targaryen  |  Meereen            |  House Targaryen
-Tyrion      |  Lannister  |  King's Landing     |  House Lannister
+Source,Target,Value,Type
+0,5,100,confirmation
+1,5,100,confirmation
+2,5,100,confirmation
+0,3,50,interaction
+0,4,50,interaction
+1,4,50,interaction
+2,4,50,interaction
+2,5,30,interaction
+1,5,30,interaction
+0,3,10,transaction
+0,4,45,transaction
+1,4,20,transaction
+2,4,20,transaction
+1,5,60,transaction
+0,5,45,transaction
+2,5,60,transaction
+1,5,100,information
+2,5,100,information
+0,5,100,information
+2,6,30,information
